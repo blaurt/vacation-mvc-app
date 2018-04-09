@@ -1,0 +1,63 @@
+.border {
+    border: 1px solid #000;
+}
+
+th[colspan="2"] {
+    text-align: center;
+}
+
+body {
+    background: #1b6d85;
+    background-image: url(../images/slider/1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#home {
+    height: 100%;
+}
+
+#home .container {
+    color: #FFFFFF;
+}
+
+#home .container input,
+table td#status {
+    color: #000000;
+}
+
+.not-processed {
+    color: #ffffff !important;
+}
+
+.table td.bg-danger,
+.table td.bg-success {
+    color: #000000 !important;
+}
+
+.custom-form {
+    text-align: left;
+}
+
+#home div.container form .custom-form button {
+    color: #fff !important;
+}
+
+#error-message {
+    padding: 1em;
+    background-color: #a10000;
+    border-radius: 12px;
+}
+
+#logout_form{
+    display: none;
+}
+
+ul.nav.navbar-nav.navbar-right{
+    text-transform: uppercase;
+}
+
+table.table.border th{
+    text-align: center;
+}

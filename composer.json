@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {"app\\": ""}
+  },
+  "require": {
+    "monolog/monolog": "^1.23"
+  }
+}
